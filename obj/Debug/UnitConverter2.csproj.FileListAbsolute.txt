@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\UnitConverter2\obj\Debug\UnitConverter2.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\UnitConverter2\obj\Debug\UnitConverterApp.Form1.resources
+C:\Users\Hp\source\repos\UnitConverter2\obj\Debug\UnitConverter2.Properties.Resources.resources
+C:\Users\Hp\source\repos\UnitConverter2\obj\Debug\UnitConverter2.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\UnitConverter2\obj\Debug\UnitConverter2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\UnitConverter2\bin\Debug\UnitConverter2.exe.config
+C:\Users\Hp\source\repos\UnitConverter2\bin\Debug\UnitConverter2.exe
+C:\Users\Hp\source\repos\UnitConverter2\bin\Debug\UnitConverter2.pdb
+C:\Users\Hp\source\repos\UnitConverter2\obj\Debug\UnitConverter2.exe
+C:\Users\Hp\source\repos\UnitConverter2\obj\Debug\UnitConverter2.pdb
